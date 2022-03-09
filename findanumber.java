@@ -1,6 +1,6 @@
-class Main {
+class findanumber {
   public static void main(String[] args) {
-    Main mn = new Main();
+    findanumber mn = new findanumber();
     int[] intArray = {1,2,3,4,5,6};
     mn.linearSearch(intArray, 7);
 
