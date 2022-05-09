@@ -15,5 +15,6 @@ class findanumber {
       }
     }
     System.out.println(value + " is not found");
+    System.out.println(value + " is djcbjhdbkvnosd not found");
   }
 }
