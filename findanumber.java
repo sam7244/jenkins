@@ -11,7 +11,7 @@ class findanumber {
     for(int i=0; i<intArray.length; i++) {
       if (intArray[i] == value) {
         System.out.println("Value is foundssss at the index of shamith " + i);
-        System.out.println("Value is foundssss at the index zcnbusydgcbsduiciudsbof shamith " + i);
+        System.out.println("Value is foundssss at tdhfghe index zcnbusydgcbsduiciudsbof shamith " + i);
         return;
       }
     }
